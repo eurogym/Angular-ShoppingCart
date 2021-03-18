@@ -45,7 +45,7 @@ export class NavbarComponent implements OnInit {
     { language: "French", langCode: "fr" },
     { language: "Persian", langCode: "fa" },
     { language: "Japanese", langCode: "ja" },
-    { language: "Hindi", langCode: "hin" },
+    { language: "Österreichisch", langCode: "hin" },
   ];
 
   constructor(
