@@ -1,5 +1,5 @@
 export const FireBaseConfig = {
-  apiKey: "${{ secrets.APIKEY }}",
+  apiKey: "AIzaSyC1c8hhnZuVfnOF4hxiUHC6qDEy1gDK0ck",
   authDomain: "food-checker-39c44.firebaseapp.com",
   databaseURL:
     "https://food-checker-39c44-default-rtdb.europe-west1.firebasedatabase.app",
