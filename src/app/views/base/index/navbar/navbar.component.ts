@@ -43,7 +43,7 @@ export class NavbarComponent implements OnInit {
   languageList = [
     { language: "English", langCode: "en" },
     { language: "French", langCode: "fr" },
-    { language: "Persian", langCode: "fa" },
+    { language: "Deutsch", langCode: "de" },
     { language: "Japanese", langCode: "ja" },
     { language: "Hindi", langCode: "hin" },
   ];
